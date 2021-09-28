@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Saswat
-- 👀 I’m interested in ... Web Development, Full-Stack, Cloud
-- 🌱 I’m currently learning ... Django, Flask
+- 👀 I’m interested in ... Web Dev, Full-Stack, Cloud
+- 🌱 I’m currently learning ... HTML, CSS, JS; Java
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
